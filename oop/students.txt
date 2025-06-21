@@ -1,0 +1,13 @@
+name,age,grade
+Alice,20,A
+Bob,22,B+
+Charlie,21,A-
+Diana,23,B
+Ethan,20,C+
+Fiona,22,B-
+George,21,A
+Hannah,23,A+
+Ivan,20,B+
+Julia,22,C
+
+Let us add some values
